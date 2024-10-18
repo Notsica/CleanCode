@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Seka\\Desktop\\CleanCode\\CleanCodeTests\\CleanCodeTests.csproj": {}
+    "C:\\Users\\Seka\\Desktop\\CleanCodeSeka2024\\CleanCode\\CleanCodeTests\\CleanCodeTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Seka\\Desktop\\CleanCode\\CleanCodeTests\\CleanCodeTests.csproj": {
+    "C:\\Users\\Seka\\Desktop\\CleanCodeSeka2024\\CleanCode\\CleanCodeTests\\CleanCodeTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Seka\\Desktop\\CleanCode\\CleanCodeTests\\CleanCodeTests.csproj",
+        "projectUniqueName": "C:\\Users\\Seka\\Desktop\\CleanCodeSeka2024\\CleanCode\\CleanCodeTests\\CleanCodeTests.csproj",
         "projectName": "CleanCodeTests",
-        "projectPath": "C:\\Users\\Seka\\Desktop\\CleanCode\\CleanCodeTests\\CleanCodeTests.csproj",
+        "projectPath": "C:\\Users\\Seka\\Desktop\\CleanCodeSeka2024\\CleanCode\\CleanCodeTests\\CleanCodeTests.csproj",
         "packagesPath": "C:\\Users\\Seka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Seka\\Desktop\\CleanCode\\CleanCodeTests\\obj\\",
+        "outputPath": "C:\\Users\\Seka\\Desktop\\CleanCodeSeka2024\\CleanCode\\CleanCodeTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Seka\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Seka\\Desktop\\CleanCode\\CleanCode\\CleanCode.csproj": {
-                "projectPath": "C:\\Users\\Seka\\Desktop\\CleanCode\\CleanCode\\CleanCode.csproj"
+              "C:\\Users\\Seka\\Desktop\\CleanCodeSeka2024\\CleanCode\\CleanCode\\CleanCode.csproj": {
+                "projectPath": "C:\\Users\\Seka\\Desktop\\CleanCodeSeka2024\\CleanCode\\CleanCode\\CleanCode.csproj"
               }
             }
           }
@@ -87,14 +87,14 @@
         }
       }
     },
-    "C:\\Users\\Seka\\Desktop\\CleanCode\\CleanCode\\CleanCode.csproj": {
+    "C:\\Users\\Seka\\Desktop\\CleanCodeSeka2024\\CleanCode\\CleanCode\\CleanCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Seka\\Desktop\\CleanCode\\CleanCode\\CleanCode.csproj",
+        "projectUniqueName": "C:\\Users\\Seka\\Desktop\\CleanCodeSeka2024\\CleanCode\\CleanCode\\CleanCode.csproj",
         "projectName": "CleanCode",
-        "projectPath": "C:\\Users\\Seka\\Desktop\\CleanCode\\CleanCode\\CleanCode.csproj",
+        "projectPath": "C:\\Users\\Seka\\Desktop\\CleanCodeSeka2024\\CleanCode\\CleanCode\\CleanCode.csproj",
         "packagesPath": "C:\\Users\\Seka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Seka\\Desktop\\CleanCode\\CleanCode\\obj\\",
+        "outputPath": "C:\\Users\\Seka\\Desktop\\CleanCodeSeka2024\\CleanCode\\CleanCode\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Seka\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ydLDuzjWhUM=",
+  "dgSpecHash": "V+9ymAGICu8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Seka\\Desktop\\CleanCode\\CleanCodeTests\\CleanCodeTests.csproj",
+  "projectFilePath": "C:\\Users\\Seka\\Desktop\\CleanCodeSeka2024\\CleanCode\\CleanCodeTests\\CleanCodeTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Seka\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Seka\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
